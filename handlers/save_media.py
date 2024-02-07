@@ -56,7 +56,7 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("⚡️ Open Link ⚡️", url=share_link)],
                  [InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/khalbalmovies1"),
-                  InlineKeyboardButton("🍿supp⊕rt gr⊕up", url="https://t.me/LazyDeveloperSupport")]]
+                  InlineKeyboardButton("🍿supp⊕rt gr⊕up", url="https://t.me/khalbalmovies1")]]
             ),
             disable_web_page_preview=True
         )
@@ -79,11 +79,11 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
             main_channel_username = (Config.LP_BTN_MAIN_CH_USRNM)
             main_btn_link = f"https://telegram.me/{main_channel_username}"
             file_name = message.caption
-            caption_z = f"{file_name}\n\n༺ᴊᴏɪɴ @{lazypost_channel_username} ༻\n\n🦋・‥☆𝘼𝘿𝙈𝙞𝙉 𝙨𝙪𝙥𝙥𝙤𝙧𝙩☆‥・🦋\n╰┈➤・☆ @{lazypost_ch_admin_usrnm} \n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/LazyDeveloper'>⎝⎝✧ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ✧⎠⎠</a>"
-            caption_za = f"{file_name}\n\n༺ᴊᴏɪɴ @{lazypost_channel_username} ༻\n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/LazyDeveloper'>⎝⎝✧ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ✧⎠⎠</a>"
-            caption_zab = f"{file_name}\n\n🦋・‥☆𝘼𝘿𝙈𝙞𝙉 𝙨𝙪𝙥𝙥𝙤𝙧𝙩☆‥・🦋\n╰┈➤・☆ @{lazypost_ch_admin_usrnm} \n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/LazyDeveloper'>⎝⎝✧ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ✧⎠⎠</a>"
-            caption_zabi = f"{file_name}\n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/LazyDeveloper'>⎝⎝✧ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ✧⎠⎠</a>"
-            lazy_dev = f"+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/LazyDeveloper'>⎝⎝✧ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ✧⎠⎠</a>"
+            caption_z = f"{file_name}\n\n༺ᴊᴏɪɴ @{lazypost_channel_username} ༻\n\n🦋・‥☆𝘼𝘿𝙈𝙞𝙉 𝙨𝙪𝙥𝙥𝙤𝙧𝙩☆‥・🦋\n╰┈➤・☆ @{lazypost_ch_admin_usrnm} \n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/khalbalmovies1'>⎝⎝✧KHALBAL✧⎠⎠</a>"
+            caption_za = f"{file_name}\n\n༺ᴊᴏɪɴ @{lazypost_channel_username} ༻\n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/khalbalmovies1'>⎝⎝✧KHALBAL✧⎠⎠</a>"
+            caption_zab = f"{file_name}\n\n🦋・‥☆𝘼𝘿𝙈𝙞𝙉 𝙨𝙪𝙥𝙥𝙤𝙧𝙩☆‥・🦋\n╰┈➤・☆ @{lazypost_ch_admin_usrnm} \n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/khalbalmovies1'>⎝⎝✧KHALBAL✧⎠⎠</a>"
+            caption_zabi = f"{file_name}\n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/khalbalmovies1'>⎝⎝✧KHALBAL✧⎠⎠</a>"
+            lazy_dev = f"+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/khalbalmovies1'>⎝⎝✧KHALBAL✧⎠⎠</a>"
             lazypost_custom_template = f"{(Config.LP_CUSTOM_TEMPLATE)}\n\n{lazy_dev} ♥️"
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("⎝⎝✧ ᴅᴏᴡɴʟᴏᴀᴅ ɴᴏᴡ ✧⎠⎠", url=share_link)],
@@ -148,8 +148,8 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
             f"𝘑𝘶𝘴𝘵 𝘊𝘭𝘪𝘤𝘬 𝘵𝘩𝘦 𝘭𝘪𝘯𝘬 𝘵𝘰 𝘨𝘦𝘵 𝘺𝘰𝘶𝘳 𝘧𝘪𝘭𝘦...",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("⚡️ Open Link ⚡️", url=share_link)],
-                 [InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/LazyDeveloper"),
-                  InlineKeyboardButton("🍿supp⊕rt gr⊕up", url="https://t.me/LazyDeveloperSupport")]]
+                 [InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/khalbalmovies1"),
+                  InlineKeyboardButton("🍿supp⊕rt gr⊕up", url="https://t.me/khalbalmovies1")]]
             ),
             disable_web_page_preview=True
         )
@@ -166,11 +166,11 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
             main_channel_username = (Config.LP_BTN_MAIN_CH_USRNM)
             main_btn_link = f"https://telegram.me/{main_channel_username}"
             file_name = message.caption
-            caption_z = f"{file_name}\n\n༺ᴊᴏɪɴ @{lazypost_channel_username} ༻\n\n🦋・‥☆𝘼𝘿𝙈𝙞𝙉 𝙨𝙪𝙥𝙥𝙤𝙧𝙩☆‥・🦋\n╰┈➤・☆ @{lazypost_ch_admin_usrnm} \n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/LazyDeveloper'>⎝⎝✧ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ✧⎠⎠</a>"
-            caption_za = f"{file_name}\n\n༺ᴊᴏɪɴ @{lazypost_channel_username} ༻\n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/LazyDeveloper'>⎝⎝✧ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ✧⎠⎠</a>"
-            caption_zab = f"{file_name}\n\n🦋・‥☆𝘼𝘿𝙈𝙞𝙉 𝙨𝙪𝙥𝙥𝙤𝙧𝙩☆‥・🦋\n╰┈➤・☆ @{lazypost_ch_admin_usrnm} \n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/LazyDeveloper'>⎝⎝✧ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ✧⎠⎠</a>"
-            caption_zabi = f"{file_name}\n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/LazyDeveloper'>⎝⎝✧ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ✧⎠⎠</a>"
-            lazy_dev = f"+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/LazyDeveloper'>⎝⎝✧ʟᴀᴢʏᴅᴇᴠᴇʟᴏᴘᴇʀ✧⎠⎠</a>"
+            caption_z = f"{file_name}\n\n༺ᴊᴏɪɴ @{lazypost_channel_username} ༻\n\n🦋・‥☆𝘼𝘿𝙈𝙞𝙉 𝙨𝙪𝙥𝙥𝙤𝙧𝙩☆‥・🦋\n╰┈➤・☆ @{lazypost_ch_admin_usrnm} \n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/khalbalmovies1'>⎝⎝✧KHALBAL✧⎠⎠</a>"
+            caption_za = f"{file_name}\n\n༺ᴊᴏɪɴ @{lazypost_channel_username} ༻\n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/khalbalmovies1'>⎝⎝✧KHALBAL✧⎠⎠</a>"
+            caption_zab = f"{file_name}\n\n🦋・‥☆𝘼𝘿𝙈𝙞𝙉 𝙨𝙪𝙥𝙥𝙤𝙧𝙩☆‥・🦋\n╰┈➤・☆ @{lazypost_ch_admin_usrnm} \n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/khalbalmovies1'>⎝⎝✧KHALBAL✧⎠⎠</a>"
+            caption_zabi = f"{file_name}\n\n+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/khalbalmovies1'>⎝⎝✧KHALBAL✧⎠⎠</a>"
+            lazy_dev = f"+> ᴛʜᴀɴᴋ ʏᴏᴜ <a href='https://telegram.me/khalbalmovies1'>⎝⎝✧KHALBAL✧⎠⎠</a>"
             lazypost_custom_template = f"{(Config.LP_CUSTOM_TEMPLATE)}\n\n{lazy_dev} ♥️"
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("⎝⎝✧ ᴅᴏᴡɴʟᴏᴀᴅ ɴᴏᴡ ✧⎠⎠", url=share_link)],
