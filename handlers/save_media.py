@@ -55,7 +55,7 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
             f"𝘑𝘶𝘴𝘵 𝘊𝘭𝘪𝘤𝘬 𝘵𝘩𝘦 𝘭𝘪𝘯𝘬 𝘵𝘰 𝘨𝘦𝘵 𝘺𝘰𝘶𝘳 𝘧𝘪𝘭𝘦𝘴!",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("⚡️ Open Link ⚡️", url=share_link)],
-                 [InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/LazyDeveloper"),
+                 [InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/khalbalmovies1"),
                   InlineKeyboardButton("🍿supp⊕rt gr⊕up", url="https://t.me/LazyDeveloperSupport")]]
             ),
             disable_web_page_preview=True
