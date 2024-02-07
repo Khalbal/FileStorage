@@ -117,8 +117,8 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                            InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/LazyDeveloper")
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/khalbalmovies1"),
+                            InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/khalbalmovies1")
                         ],
                         [
                             InlineKeyboardButton("🤖Aß⊕ut ß⊕†", callback_data="aboutbot"),
@@ -133,8 +133,8 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                            InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/LazyDeveloper")
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/khalbalmovies1"),
+                            InlineKeyboardButton("🔊ß⊕†s chαηηεl", url="https://t.me/khalbalmovies1")
                         ],
                         [
                             InlineKeyboardButton("🤖Aß⊕ut ß⊕†", callback_data="aboutbot"),
@@ -413,8 +413,8 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                            InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/LazyDeveloper")
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/khalbalmovies1"),
+                            InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/khalbalmovies1")
                         ],
                         [
                             InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
@@ -433,8 +433,8 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                            InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/LazyDeveloper")
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/khalbalmovies1"),
+                            InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/khalbalmovies1")
                         ],
                         [
                             InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
@@ -457,7 +457,7 @@ async def Lazy_start():
                     user = await bot.get_chat_member(channel_chat_id, cmd.message.chat.id)
                     if user.status == "kicked":
                         await cmd.message.edit(
-                            text="ꜱᴏʀʀʏ ꜱɪʀ, ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ ᴛᴏ ᴜꜱᴇ ᴍᴇ. ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [Support Group](https://t.me/LazyDeveloperSupport).",
+                            text="ꜱᴏʀʀʏ ꜱɪʀ, ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ ᴛᴏ ᴜꜱᴇ ᴍᴇ. ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [Support Group](https://t.me/khalbalmovies1).",
                             disable_web_page_preview=True
                         )
                         return
@@ -480,7 +480,7 @@ async def Lazy_start():
                     return
                 except Exception:
                     await cmd.message.edit(
-                        text="ꜱᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ. ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [Support Group](https://t.me/LazyDeveloperSupport).",
+                        text="ꜱᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ. ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [Support Group](https://t.me/khalbalmovies1).",
                         disable_web_page_preview=True
                     )
                     return
@@ -491,8 +491,8 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                            InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/LazyDeveloper")
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/khalbalmovies1"),
+                            InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/khalbalmovies1")
                         ],
                         [
                             InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
@@ -511,8 +511,8 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/LazyDeveloperSupport"),
-                            InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/LazyDeveloper")
+                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/khalbalmovies1"),
+                            InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/khalbalmovies1")
                         ],
                         [
                             InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
